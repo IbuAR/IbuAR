@@ -6,7 +6,7 @@
 
 ### this is the place where i build stuff and break things :rofl:
 
-##connect with me
+## connect with me
 
 <p align="left">
 
