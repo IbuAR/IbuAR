@@ -8,8 +8,8 @@
 
 ## connect with me
 
-[![website](./assets/image/www-light.png)](http://ibuar.duckdns.com#gh-light-mode-only)
-[![website](./assets/image/www-dark.png)](http://ibuar.duckdns.com#gh-dark-mode-only)
+[![website](./assets/icons/www-light.png)](http://ibuar.duckdns.com#gh-light-mode-only)
+[![website](./assets/icons/www-dark.png)](http://ibuar.duckdns.com#gh-dark-mode-only)
 
 [website]: http://ibuar.duckdns.com
 [twitter]: https://twitter.com/iam_ibu_ar
