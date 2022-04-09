@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/IbuAR/IbuAR/main/assets/images/GithubHeader.png" alt="Mohamed Ibrahim" />
 </h1>
 
-## hi there <a href="http://ibuar.duckdns.com/"> :wave:
+## hi there, i'm mohamed ibrahim (aka) ibu <a href="http://ibuar.duckdns.com/"> :wave:
 
 ### this is the place where i build stuff and break things :rofl:
 
