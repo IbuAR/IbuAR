@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/IbuAR/IbuAR/main/assets/images/GithubHeader.png" alt="Mohamed Ibrahim" />
+  <img src="./assets/images/github-header.png" alt="Mohamed Ibrahim" />
 </h1>
 
 ## hi there,:wave: i'm mohamed ibrahim (aka) ibu
