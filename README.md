@@ -8,8 +8,8 @@
 
 - :seedling: I’m currently learning web related tech and system design
 - :dart: I learn new stuff by building and breaking things
-- 🥅 To build user facing applications that solves real world problems
-- :musical_keyboard: I likes to jam with music DAW, listening to music and also a movie buff
+- 🥅 Goals: To build user facing applications that solves real world problems
+- :musical_keyboard: Fun fact: I likes to jam with music DAW, listening to music and also a movie buff
 
 ## connect with me
 
