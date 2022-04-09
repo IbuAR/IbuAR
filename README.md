@@ -8,5 +8,11 @@
 
 ## connect with me
 
-[![website](./assets/image/www-light.svg)](http://ibuar.duckdns.com#gh-light-mode-only)
-[![website](./assets/image/www-dark.svg)](http://ibuar.duckdns.com#gh-dark-mode-only)
+[![website](./assets/image/www-light.png)](http://ibuar.duckdns.com#gh-light-mode-only)
+[![website](./assets/image/www-dark.png)](http://ibuar.duckdns.com#gh-dark-mode-only)
+
+[website]: http://ibuar.duckdns.com
+[twitter]: https://twitter.com/iam_ibu_ar
+[instagram]: https://www.instagram.com/iam_ibu_ar
+[github]: https://github.com/IbuAR
+[linkedin]: https://www.linkedin.com/in/ibuar
