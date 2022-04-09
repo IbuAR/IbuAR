@@ -8,22 +8,5 @@
 
 ## connect with me
 
-<p align="left">
-
-<a href="https://twitter.com/iam_ibu_ar" target="_blank" rel="noopener noreferrer">
- <img src="https://raw.githubusercontent.com/IbuAR/IbuAR/main/assets/icons/twitter.png" alt="Ibrahim's Twitter Link" />
-</a>
-
-<a href="https://www.instagram.com/iam_ibu_ar" target="_blank" rel="noopener noreferrer">
- <img src="https://raw.githubusercontent.com/IbuAR/IbuAR/main/assets/icons/instagram.png" alt="Ibrahim's Instagram Link" />
-</a>
-
-<a href="https://www.linkedin.com/in/ibuar" target="_blank" rel="noopener noreferrer">
- <img src="https://raw.githubusercontent.com/IbuAR/IbuAR/main/assets/icons/linkedin.png" alt="Ibrahim's Linkedin Link" />
-</a>
-
-<a href="http://ibuar.duckdns.org/" target="_blank" rel="noopener noreferrer">
- <img src="https://raw.githubusercontent.com/IbuAR/IbuAR/main/assets/icons/www.png" alt="Ibrahim's Website Link" />
-</a>
-
-</p>
+[![website](./assets/image/www-light.svg)](http://ibuar.duckdns.com#gh-light-mode-only)
+[![website](./assets/image/www-dark.svg)](http://ibuar.duckdns.com#gh-dark-mode-only)
